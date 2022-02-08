@@ -1,5 +1,5 @@
 # mainsChecker
-Check the AC Mains (city powerline) status and power off/sleep/hibernate a host connected to a UPS. 
+Use a Raspberry Pi to check the AC Mains (city powerline) status and power off/sleep/hibernate a host connected to a UPS. 
 
 While a [UPS](https://en.wikipedia.org/wiki/Uninterruptible_power_supply) is an excellent way to keep your computer up and running even during power outages, 
 its major use for power-hungry machines is just to ensure graceful shutdown when the power goes off.  
